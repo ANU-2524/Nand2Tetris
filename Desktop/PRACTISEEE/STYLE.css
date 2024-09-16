@@ -1,0 +1,14 @@
+.divc{ background-color:yellow ; color:red }
+*{background-color:PINK}
+span{background-color:YELLOW}
+p{ color:blue}
+form{color:blue}
+h1, h2 {font-family: Times New Roman;}
+table, th, td {
+    border: 1px solid black;
+    }
+th, td {
+        border-style: dotted;
+        border-collapse: collapse;
+      }
+     
